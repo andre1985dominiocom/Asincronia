@@ -27,7 +27,7 @@ function promesaFallar() {
 
 }
 
-//aqie llamamos la funcion para que devuelva la promesa
+//aqui llamamos la funcion para que devuelva la promesa
 promesaFallar()
 // then: se ejecuta si la promesa se cumple, (se llama resolve).
 // el parametro resultado recibe el valor pasado resolve

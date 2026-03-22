@@ -19,4 +19,3 @@ async function miTarea() {
 
 //llamamos a la funcion mitarea
 miTarea();
-  
