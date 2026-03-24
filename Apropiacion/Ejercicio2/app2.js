@@ -21,5 +21,5 @@ setTimeout(() => {
 
 for (let i = 0; i < 1000000000; i++) {} // hasta que que cumpla el for, se ejecuta el setTimeout
 
-console.log("Fin");// se ejecuta primero
+console.log("Fin");// se ejecuta primero.
 
